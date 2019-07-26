@@ -6,6 +6,8 @@ public class RandomFunctions {
     Scanner input = new Scanner(System.in);
 
 
+
+
 while (true){
   System.out.println("Please enter a number");
   int pass = input.nextInt();
